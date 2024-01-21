@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383094565364",
+    "project_id": "todonew-e5504",
+    "storage_bucket": "todonew-e5504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383094565364:android:decd2957de740a8082f1a1",
+        "android_client_info": {
+          "package_name": "Dimas.Do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8etAcRDQ99yt-2d-vAkY8bcqvFemOLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
